@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: python-package-template
+Version: 0.0.1
+Summary: Whate ereve
+Home-page: https://github.com/ahadafzal/python-package-template
+Author: Ahad Afzal
+Author-email: ahadbutafzal@gmail.com
+License: MIT
+Description: # python-package-template
+        
+Platform: UNKNOWN
+Requires-Python: >=3.5

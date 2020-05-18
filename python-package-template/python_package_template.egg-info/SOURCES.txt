@@ -1,0 +1,10 @@
+README.md
+setup.py
+module1/__init__.py
+module1/python_files.py
+module2/__init__.py
+module2/python_files.py
+python_package_template.egg-info/PKG-INFO
+python_package_template.egg-info/SOURCES.txt
+python_package_template.egg-info/dependency_links.txt
+python_package_template.egg-info/top_level.txt
