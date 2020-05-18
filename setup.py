@@ -9,7 +9,7 @@ with open('README.md') as f:
 setuptools.setup(
     author="Ahad Afzal",
     author_email="ahadbutafzal@gmail.com",
-    name='python-package-template',
+    name='python_package_template',
     license="MIT",
     description='Whate ereve',
     version='v0.0.1',
