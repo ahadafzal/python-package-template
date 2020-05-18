@@ -12,7 +12,7 @@ setuptools.setup(
     name='python_package_template',
     license="MIT",
     description='Whate ereve',
-    version='v0.0.1',
+    version='v0.0.2',
     long_description=README,
     url='https://github.com/ahadafzal/python-package-template',
     packages=setuptools.find_packages(),
